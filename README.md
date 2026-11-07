@@ -42,5 +42,5 @@
 
 ### 💬 Connect
 
-* **Discord:** `[@lawliet](https://discord.gg/FXEYShskH)`
+* **Discord:** `https://discord.gg/FXEYShskH`
 * **GitHub:** [@xsitraxs](https://github.com/xsitraxs)
