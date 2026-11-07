@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm Maksim (xsitrax) 👋</h1>
+  <h1>Hey, I'm xsitrax 👋</h1>
   <p>Developer passionate about game mechanics, modding pipelines, and system automation tools.</p>
 </div>
 
@@ -42,5 +42,5 @@
 
 ### 💬 Connect
 
-* **Discord:** `@lawliet`
+* **Discord:** `[@lawliet](https://discord.gg/FXEYShskH)`
 * **GitHub:** [@xsitraxs](https://github.com/xsitraxs)
