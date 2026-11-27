@@ -124,6 +124,21 @@
 - **GitHub:** [@xsitraxs](https://github.com/xsitraxs) — все проекты и релизы
 - **Issues и pull request'ы:** пишите прямо в репозиторий нужного проекта — отвечу там же
 
+<details>
+<summary><b>Служебное: аудит профиля и готовые исправления</b></summary>
+
+<br/>
+
+Разбор состояния репозиториев и подготовленные изменения:
+
+- [`docs/repo-metadata.md`](docs/repo-metadata.md) — описания и топики для всех репозиториев, порядок закрепления, bio
+- [`docs/ci-notes.md`](docs/ci-notes.md) — состояние CI и что с ним делать
+- [`docs/ci-badges.md`](docs/ci-badges.md) — готовые бейджи CI (проверены на зелёный статус)
+- [`fixes/`](fixes/) — патч для `dota-2`, разблокирующий PR Dependabot, и инструкция по применению
+- [`scripts/apply-repo-metadata.sh`](scripts/apply-repo-metadata.sh) — скрипт, применяющий метаданные одной командой
+
+</details>
+
 ---
 
 <a id="in-english"></a>

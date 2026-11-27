@@ -132,9 +132,9 @@ updates:
 | walking-house | 04.11 | success |
 | tunatuvuhoi4mod | 08.11 | success |
 | Smart_File_Organizer | 14.10 | success |
-| counter-items | 03.11 | success |
-| farm-life | 18.10 | success |
-| timernew | 18.10 | success |
+| counter-items | 19.10 | success (`lua.yml`) |
+| farm-life | 18.10 | **failure** — шаг `Build mod` (`gradle build`), логи истекли, нужен локальный прогон |
+| timernew | 14.10 | success |
 | hoi4translator-web | 26.10 | failure — последний прогон, больше не запускался |
 | home-manager | — | workflow отсутствует |
 | dota2analyser | — | workflow отсутствует |
