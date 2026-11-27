@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://github.com/xsitraxs?tab=repositories"><img src="https://img.shields.io/badge/repositories-16-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
-<a href="https://xsitraxs.github.io/dota-2/"><img src="https://img.shields.io/badge/live%20demo-Dota%202%20draft%20helper-2ea043?style=flat-square&logo=googlechrome&logoColor=white" alt="Live demo" /></a>
+<a href="https://xsitraxs.github.io/dota-2/"><img src="https://img.shields.io/badge/demo-Dota%202%20draft%20helper-2ea043?style=flat-square&logo=googlechrome&logoColor=white" alt="Demo" /></a>
 <a href="https://discord.gg/FXEYShskH"><img src="https://img.shields.io/badge/Discord-LAWLIET%20HOME-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 
 <sub><a href="#-проекты">Проекты</a> · <a href="#-стек">Стек</a> · <a href="#-статистика">Статистика</a> · <a href="#-связь">Связь</a> · <a href="#in-english">English</a></sub>
@@ -36,7 +36,7 @@
 
 | Проект | Что это |
 | --- | --- |
-| **[Moonwave](https://github.com/xsitraxs/Moonwave)** <br/> `TypeScript` · `Electron` · `GPL-3.0` | Плеер SoundCloud для Windows, macOS и Linux: без рекламы, с текстами песен, эквалайзером, своими плейлистами и оформлением (обои из Steam Workshop). Сборки для всех трёх ОС в релизах. |
+| **[Moonwave](https://github.com/xsitraxs/Moonwave)** <br/> `TypeScript` · `Electron` · `GPL-3.0` <br/> ![release](https://img.shields.io/github/v/release/xsitraxs/Moonwave?style=flat-square&labelColor=1a1b26&color=7aa2f7) ![downloads](https://img.shields.io/github/downloads/xsitraxs/Moonwave/total?style=flat-square&labelColor=1a1b26&color=9ece6a) | Плеер SoundCloud для Windows, macOS и Linux: без рекламы, с текстами песен, эквалайзером, своими плейлистами и оформлением (обои из Steam Workshop). Сборки для всех трёх ОС в релизах. |
 | **[home-manager](https://github.com/xsitraxs/home-manager)** <br/> `TypeScript` · `Electron` · `SQLite` | Домашние дела, семейный рейтинг и трекер воды в одном приложении. Локальная база, трей, напоминания, горячие клавиши. |
 | **[Dota 2 Analyser](https://github.com/xsitraxs/dota2analyser)** <br/> `TypeScript` · `React` · `MIT` | Разбирает твои матчи по шести осям, находит конкретные ошибки и собирает план тренировки. Всё считается в браузере, данные никуда не уходят. |
 
@@ -44,7 +44,7 @@
 
 | Проект | Что это |
 | --- | --- |
-| **[HoI4 Localization Tool](https://github.com/xsitraxs/Hoi4_translator)** ⭐ <br/> `Rust` · `MIT` | Пакетный перевод `.yml`-локализации модов HoI4. Переводит только значения и не ломает разметку Paradox: `$VALUE$`, `§R…§!`, `£money`, `[GetTag]`. Каждый файл проверяется перед записью. CLI + локальное окно, Windows-сборка с SHA256 в релизах. |
+| **[HoI4 Localization Tool](https://github.com/xsitraxs/Hoi4_translator)** ⭐ <br/> `Rust` · `MIT` <br/> ![release](https://img.shields.io/github/v/release/xsitraxs/Hoi4_translator?style=flat-square&labelColor=1a1b26&color=7aa2f7) ![downloads](https://img.shields.io/github/downloads/xsitraxs/Hoi4_translator/total?style=flat-square&labelColor=1a1b26&color=9ece6a) | Пакетный перевод `.yml`-локализации модов HoI4. Переводит только значения и не ломает разметку Paradox: `$VALUE$`, `§R…§!`, `£money`, `[GetTag]`. Каждый файл проверяется перед записью. CLI + локальное окно, Windows-сборка с SHA256 в релизах. |
 | **[Smart File Organizer](https://github.com/xsitraxs/Smart_File_Organizer)** <br/> `Python` · `MIT` | Сортировка файлов по категориям с `--dry-run`, режимом наблюдения за папкой, поиском дубликатов по SHA-256 и полным откатом любого перемещения. |
 | **[Драфт-помощник Dota 2](https://github.com/xsitraxs/dota-2)** <br/> `JavaScript` · `MIT` | Что делать в этом матче: лейн против их мида, угрозы их драфта, закуп с ценами патча. Работает офлайн, открывается в браузере — **[демо](https://xsitraxs.github.io/dota-2/)**. |
 | **[Counter Items](https://github.com/xsitraxs/counter-items)** <br/> `Lua` · `MIT` | Контр-предметы для Dota 2 в Lua-окружении Umbrella: учитывает способности и предметы врагов, роль и уже имеющуюся защиту. |
@@ -63,9 +63,8 @@
 <br/>
 
 - **[lean-late-game](https://github.com/xsitraxs/lean-late-game)** и **[invoker-sunstrike-game](https://github.com/xsitraxs/invoker-sunstrike-game)** — попытки снизить нагрузку на CPU в поздней игре HoI4 (1943+) через правки ИИ, `defines` и `on_actions`. Пока каркас и методика замеров, прирост производительности не подтверждён.
-- **[hoi4translator-web](https://github.com/xsitraxs/hoi4translator-web)** — веб-версия переводчика локализации на React: DeepL → Google → MyMemory с фолбэком, глоссарий, предпросмотр.
+- **[hoi4translator-web](https://github.com/xsitraxs/hoi4translator-web)** — веб-версия переводчика локализации на React: DeepL → Google → MyMemory с фолбэком, глоссарий, предпросмотр. *Заморожен: развитие ушло в Rust-версию.*
 - **[timernew](https://github.com/xsitraxs/timernew)** — таймер для Windows 10/11 на C# + WinUI 3 (Mica, тёмная тема, MSIX-установщик).
-- **[umbrlua](https://github.com/xsitraxs/umbrlua)** — общая библиотека для Lua-скриптов Umbrella.
 
 </details>
 
