@@ -36,7 +36,7 @@
 
 | Проект | Что это |
 | --- | --- |
-| **[Moonwave](https://github.com/xsitraxs/Moonwave)** <br/> `TypeScript` · `Electron` · `GPL-3.0` <br/> ![release](https://img.shields.io/github/v/release/xsitraxs/Moonwave?style=flat-square&labelColor=1a1b26&color=7aa2f7) ![downloads](https://img.shields.io/github/downloads/xsitraxs/Moonwave/total?style=flat-square&labelColor=1a1b26&color=9ece6a) | Плеер SoundCloud для Windows, macOS и Linux: без рекламы, с текстами песен, эквалайзером, своими плейлистами и оформлением (обои из Steam Workshop). Сборки для всех трёх ОС в релизах. |
+| **[Moonwave](https://github.com/xsitraxs/Moonwave)** <br/> `TypeScript` · `Electron` · `GPL-3.0` <br/> ![release](https://img.shields.io/github/v/release/xsitraxs/Moonwave?style=flat-square&labelColor=1a1b26&color=7aa2f7) | Плеер SoundCloud для Windows, macOS и Linux: без рекламы, с текстами песен, эквалайзером, своими плейлистами и оформлением (обои из Steam Workshop). Сборки для всех трёх ОС в релизах. |
 | **[home-manager](https://github.com/xsitraxs/home-manager)** <br/> `TypeScript` · `Electron` · `SQLite` | Домашние дела, семейный рейтинг и трекер воды в одном приложении. Локальная база, трей, напоминания, горячие клавиши. |
 | **[Dota 2 Analyser](https://github.com/xsitraxs/dota2analyser)** <br/> `TypeScript` · `React` · `MIT` | Разбирает твои матчи по шести осям, находит конкретные ошибки и собирает план тренировки. Всё считается в браузере, данные никуда не уходят. |
 
