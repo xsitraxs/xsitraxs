@@ -77,13 +77,24 @@ updates:
 которым они нужны, и исправляет неверные топики `Hoi4_translator` (`python`, `customtkinter` →
 `rust`, `cli`).
 
+**Linux / macOS:**
 ```bash
-cd xsitraxs                      # этот репозиторий
 ./scripts/apply-repo-metadata.sh --dry-run   # посмотреть, что будет сделано
 ./scripts/apply-repo-metadata.sh            # применить
 ```
 
-Нужен `gh`, авторизованный как владелец аккаунта. Скрипт идемпотентен.
+**Windows (PowerShell):**
+```powershell
+.\scripts\apply-repo-metadata.ps1 -DryRun   # посмотреть
+.\scripts\apply-repo-metadata.ps1          # применить
+```
+
+Если PowerShell блокирует запуск скриптов:
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\apply-repo-metadata.ps1 -DryRun
+```
+
+Нужен `gh`, авторизованный как владелец аккаунта. Оба скрипта идемпотентны и содержат одинаковые данные.
 
 **Вручную** (API этого не умеет): закрепить 6 репозиториев в профиле
 (Customize your pins) и заполнить bio.
