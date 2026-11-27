@@ -89,6 +89,10 @@ updates:
 .\scripts\apply-repo-metadata.ps1          # применить
 ```
 
+> **Кодировка.** `.ps1` сохранён в UTF-8 **с BOM** — без этого PowerShell 5.1 читает кириллицу
+> как Windows-1251 и падает с `Непредвиденная лексема`. Если видишь в ошибке `РџСЂРѕС‚РѕС‚РёРї`
+> вместо `Прототип` — файл скачан неправильно или это старая версия, перекачай.
+
 Если PowerShell блокирует запуск скриптов:
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\scripts\apply-repo-metadata.ps1 -DryRun
